@@ -24,7 +24,7 @@ public class LinkedListExamples
   
  list.head       = new Node(100);  
          Node second      = new Node(200);  
-         Node third       = new Node(300);  
+         
         
          
   
